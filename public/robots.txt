@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://seniorjuniordev.com/sitemap.xml 
+Sitemap: http://viceversus.github.io/sitemap.xml 

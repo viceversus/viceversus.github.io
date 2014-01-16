@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://seniorjuniordev.com/about/</loc>
+        <loc>http://viceversus.github.io/about/</loc>
         <lastmod>2014-01-09T18:46:44-08:00</lastmod>
     </url>
     <url>
-        <loc>http://seniorjuniordev.com/archives/</loc>
+        <loc>http://viceversus.github.io/archives/</loc>
         <lastmod>2014-01-09T18:43:18-08:00</lastmod>
     </url>
     <url>
-        <loc>http://seniorjuniordev.com/blog/archives/</loc>
+        <loc>http://viceversus.github.io/blog/archives/</loc>
         <lastmod>2014-01-09T18:43:18-08:00</lastmod>
     </url>
     <url>
-        <loc>http://seniorjuniordev.com/blog/</loc>
+        <loc>http://viceversus.github.io/blog/</loc>
         <lastmod>2014-01-09T18:43:18-08:00</lastmod>
     </url>
     <url>
-        <loc>http://seniorjuniordev.com/contact/</loc>
+        <loc>http://viceversus.github.io/contact/</loc>
         <lastmod>2014-01-09T18:43:18-08:00</lastmod>
     </url>
     <url>
-        <loc>http://seniorjuniordev.com/</loc>
+        <loc>http://viceversus.github.io/</loc>
         <lastmod>2014-01-09T18:43:18-08:00</lastmod>
     </url>
     <url>
-        <loc>http://seniorjuniordev.com/robots.txt</loc>
+        <loc>http://viceversus.github.io/robots.txt</loc>
         <lastmod>2014-01-09T18:43:18-08:00</lastmod>
     </url>
 </urlset>
