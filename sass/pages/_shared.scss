@@ -1,0 +1,11 @@
+.p {
+  @include rhythm(1, 0, 0, 1);
+}
+
+h2 {
+  @include rhythm(0.5, 0, 0, 0.5);
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}

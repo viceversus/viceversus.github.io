@@ -4,12 +4,20 @@
   <title><![CDATA[Senior Junior Dev]]></title>
   <link href="http://viceversus.github.io/atom.xml" rel="self"/>
   <link href="http://viceversus.github.io/"/>
-  <updated>2014-01-15T17:43:34-08:00</updated>
+  <updated>2014-01-16T11:39:36-08:00</updated>
   <id>http://viceversus.github.io/</id>
   <author>
     <name><![CDATA[Ken Shimizu]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[An Introduction]]></title>
+    <link href="http://viceversus.github.io/blog/2014/01/16/an-introduction/"/>
+    <updated>2014-01-16T11:24:52-08:00</updated>
+    <id>http://viceversus.github.io/blog/2014/01/16/an-introduction</id>
+    <content type="html"><![CDATA[]]></content>
+  </entry>
   
 </feed>
