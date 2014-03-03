@@ -1,113 +1,27 @@
+---
+layout: post
+title: "The Junior Jump: Life After Coding Bootcamps"
+date: 2014-03-03 10:35:54 -0800
+comments: true
+categories:
+---
 
-<!DOCTYPE HTML>
-<html lang="en-GB">
-<head>
-	<meta charset="utf-8">
-	<title>Insert tagline here  | Senior Junior Dev</title>
-
-	<meta name="author" content="Ken Shimizu">
-
-<meta name="description" content="As a former Dev Bootcamp (DBC) student, I get a lot of inquiries from recent grads asking for tips on landing a job. I was lucky to get into the DBC &hellip;"> <meta name="keywords" content="">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-	<link href="/atom.xml" rel="alternate" title="Senior Junior Dev" type="application/atom+xml">
-	<link rel="canonical" href="">
-	<link href="/favicon.png" rel="shortcut icon">
-	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css">
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	
-</head>
-
-
-
-<body>
-	<header id="header" class="inner"><h1><a href="/">Senior Junior Dev</a></h1>
-<span class="tagline">Insert tagline here</span>
-<nav id="main-nav"><ul>
-	<li><a href="/about">About</a></li>
-	<li><a href="/archives">Archives</a></li>
-	<li><a href="/contact">Contact</a></li>
-</ul>
-</nav>
-<nav id="mobile-nav">
-	<div class="alignleft menu">
-		<a class="button">Menu</a>
-		<div class="container"><ul>
-	<li><a href="/about">About</a></li>
-	<li><a href="/archives">Archives</a></li>
-	<li><a href="/contact">Contact</a></li>
-</ul>
-</div>
-	</div>
-</nav>
-
-
-</header>
-
-	<div id="content" class="inner">
-
-
-    <article class="post">
-	<header>
-		<h2 class="title">
-			
-			<a href="/blog/2014/03/03/the-junior-jump-life-after-coding-bootcamps/">
-			
-				The Junior Jump: Life After Coding Bootcamps</a>
-		</h2>
-		<div class="meta date">
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-03-03T10:35:54-08:00" pubdate data-updated="true">Mar 3<span>rd</span>, 2014</time></div>
-	</header>
-	<div class="entry-content">
-		<p>As a former <a href="http://devbootcamp.com/" target="_blank">Dev Bootcamp</a> (DBC) student, I get a lot of inquiries from recent grads asking for tips on landing a job. I was lucky to get into the DBC early, graduating from the second cohort a year and a half ago, and the job market was quick to pick us up. However, after going through the growing pains of learning how to code in a production environment, I don’t find it too surprising that bootcamp grads now are having a harder time landing jobs.</p>
-
-
-
+<p>As a former <a href="http://devbootcamp.com/" target="_blank">Dev Bootcamp</a> (DBC) student, I get a lot of inquiries from recent grads asking for tips on landing a job. I was lucky to get into the DBC early, graduating from the second cohort a year and a half ago, and the job market was quick to pick us up. However, after going through the growing pains of learning how to code in a production environment, I don’t find it too surprising that bootcamp grads now are having a harder time landing jobs.</p>
 
 <p><a href='#tldr'>tl;dr</a></p>
 
-
-<h2>The Problem</h2>
-
+##The Problem
 <p>Though these new devs are graduating with far more web development knowledge than I did when I graduated, bootcamp grads lack some critical meta-skills that are necessary for contributing quickly and effectively in a production environment. With just a little bit of training, these bootcamp devs can be extremely valuable to companies in need of engineers. However, the simple truth remains that a noticeable chasm exists between graduating bootcamp and becoming an effective junior developer. Fortunately, the Junior Jump can be made!</p>
-
-
 <p>Bootcamp grads are lacking in important production-specific skills, but only because a lack of exposure to them. There were so many factors outside of coding that hindered my ability to perform well at my first job after Dev Bootcamp. I was unfamiliar with planning meetings, story estimation, and product discussions, which made it hard to contribute or concentrate. I found navigating relationships with designers and non-technical co-workers to be awkward. When I finally dove in, the humongous code base was mentally draining. All these things contributed to my first story being a total disaster.</p>
-
-
 <p>It dawned on me pretty quickly that I needed help. With time and guidance, my knowledge grew quickly, and by the three month mark, I was able to complete assignments and participate in general product areas effectively. By the six month mark, I was playing a significant role in a major release we had. The learning that I did in those six months was as critical as DBC to my getting hired at Carbon Five. Here are some things that I drew from that experience that other bootcamp grads can hopefully use to propel themselves across the Junior Jump.</p>
 
-
-<h2><span id='tldr'>How I Progressed and How You Can Improve Your Skills</span></h2>
-
-<h3>Pairing and Feedback</h3>
-
+##<span id='tldr'>How I Progressed and How You Can Improve Your Skills</span>
+###Pairing and Feedback
 <p>Pairing and getting feedback was the fastest and most effective way for me to learn, and directly contributed to both of my hirings. I gained knowledge from every pair I interacted with, often copying coding patterns or styles I saw. In the process of pairing, I was also exposed to meta-skills, observing how one collaborated with a designer, navigated a codebase to squash a bug, or effectively used git or bash. When I wasn’t able to pair, I sought constant feedback. I used lunch and any free moments to discuss ideas I had and clarify things that I didn’t understand.</p>
-
-
 <p>When you’re not able to work in a professional production environment, you have to seek out opportunities to pair and work with experienced developers. Go to a hack night with a small coding problem and find an experienced pair. What tools do they use that you don’t? How do they structure their code and their tests? What do they pay attention to that you don’t? Find things you like about their style and adopt them. Be sure to show them off when you get the chance in an interview setting! Bootstrap a project and start building incremental features using pull requests on Github. Then have an experienced developer review your code.</p>
 
-
-<h3>Learning All the Things Around Writing Code</h3>
-
+###Learning All the Things Around Writing Code
 <p>When I first started working, there were so many factors around writing code that I didn’t know, that it was hard for me to focus on coding itself. Learning the domain model, estimation, design collaboration, git flow, and a deployment process, all while trying to show your technical worth can be hard. It took me months to learn all these little skills, but if you can learn some of them before entering the workforce, you can really hit the ground running! Not only that, but you’ll be able to talk about them knowledgeably at an interview, improving your chances of getting hired. Here’s a list of skills that gave me some trouble early on.</p>
-
-
-
 
 <ul>
 <li><strong>Estimation</strong> - Use Pivotal Tracker to define incremental stories and estimate them. Find somebody who has done it before to show you the ropes!</li>
@@ -126,63 +40,14 @@
 
 <li><strong>Tools</strong> - Text editors, gems, rake tasks, git clients, command line tools, and apps can be useful things to optimize. Know how to effectively use your tools!</li>
 
-<li><strong>Be resourceful!</strong> - My <a href="http://blog.carbonfive.com/author/tfisher/" target="_blank">mentor</a> used to always tell me, &#8216;Google is your friend.&#8217; Learn how to unstick yourself using Google, but also, take all internet advice with a grain of salt!</li>
+<li><strong>Be resourceful!</strong> - My <a href="http://blog.carbonfive.com/author/tfisher/" target="_blank">mentor</a> used to always tell me, 'Google is your friend.' Learn how to unstick yourself using Google, but also, take all internet advice with a grain of salt!</li>
 </ul>
 
-
-<h3>Learn to read code</h3>
-
+###Learn to read code
 <p>Bootcamp schools are all about teaching you how to write code, but it’s just as important to be able to read code. One of the hardest parts about stepping into a production environment from a bootcamp setting is reading code that somebody else wrote in a context you are not familiar with.</p>
-
-
 <p>Find a pair and dive into some gem or open source library. Pick a piece of the library you are curious about and start digging into how it works. Even figuring out how a single method works can be challenging in larger libraries!</p>
-
-
 <p>If you’re not sure where to start, just open up a gem using <code>bundle open [gem-name]</code> in the command line. Install the pry and pry-debugger gems and insert your <code>binding.pry</code> just before your method call. You can step through every call the method makes. Docs and Github are a great place to start as well!</p>
 
-
-<h2>Summary</h2>
-
+##Summary
 <p>While searching for jobs after bootcamp schools is harder than it was a year ago, the need for developers is <a href="http://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm" target="_blank">growing rapidly</a>. If bootcamp grads can learn a few more real-world skills and showcase them effectively in an interview setting, they will be much more competitive in the job market.</p>
-
-
 <p>If you’d like to work with Carbon Five to learn some of these real-world metaskills, you can sign up for a Tinderbox Meetup event geared toward improving your post-bootcamp skills <a href="http://www.meetup.com/tinderbox-la">here</a>. Also, if you would like more Junior Developer specific advice, you can find more content at my personal blog, <a href="http://srjrdev.com" title="Senior Junior Dev" target="_blank">Senior Junior Dev</a>.</p>
-
-
-		
-		
-	</div>
-
-</article>
-
-
-</div>
-	<footer id="footer" class="inner">&copy; 2014
-
-    Ken Shimizu
-
-</footer>
-	<script src="/javascripts/slash.js"></script>
-<script src="/javascripts/hyphenator.js"></script>
-
-
-<script type="text/javascript">
-      var disqus_shortname = 'seniorjuniordev';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-
-
-
-</body>
-</html>
