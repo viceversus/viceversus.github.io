@@ -1,79 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE HTML>
-<html lang="en-GB">
-<head>
-	<meta charset="utf-8">
-	<title>Insert tagline here  | Senior Junior Dev</title>
-
-	<meta name="author" content="Ken Shimizu">
-
-<meta name="description" content="As a former Dev Bootcamp (DBC) student, I get a lot of inquiries from recent grads asking for tips on landing a job. I was lucky to get into the DBC &hellip;"> <meta name="keywords" content="">
-
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-	<link href="/atom.xml" rel="alternate" title="Senior Junior Dev" type="application/atom+xml">
-	<link rel="canonical" href="">
-	<link href="/favicon.png" rel="shortcut icon">
-	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<link href="/stylesheets/application.css" media="screen" rel="stylesheet" type="text/css">
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	
-</head>
-
-
-
-<body>
-	<header id="header" class="inner"><h1><a href="/">Senior Junior Dev</a></h1>
-<span class="tagline">Insert tagline here</span>
-<nav id="main-nav"><ul>
-	<li><a href="/about">About</a></li>
-	<li><a href="/archives">Archives</a></li>
-	<li><a href="/contact">Contact</a></li>
-</ul>
-</nav>
-<nav id="mobile-nav">
-	<div class="alignleft menu">
-		<a class="button">Menu</a>
-		<div class="container"><ul>
-	<li><a href="/about">About</a></li>
-	<li><a href="/archives">Archives</a></li>
-	<li><a href="/contact">Contact</a></li>
-</ul>
-</div>
-	</div>
-</nav>
-
-
-</header>
-
-	<div id="content" class="inner">
-
-
-    <article class="post">
-	<header>
-		<h2 class="title">
-			
-			<a href="/blog/2014/03/03/the-junior-jump-life-after-coding-bootcamps/">
-			
-				The Junior Jump: Life After Coding Bootcamps</a>
-		</h2>
-		<div class="meta date">
-
-
-
-
-
-
-
+  <title><![CDATA[Senior Junior Dev]]></title>
+  <link href="http://srjrdev.com/atom.xml" rel="self"/>
+  <link href="http://srjrdev.com/"/>
+  <updated>2014-03-03T10:38:14-08:00</updated>
+  <id>http://srjrdev.com/</id>
+  <author>
+    <name><![CDATA[Ken Shimizu]]></name>
+    
+  </author>
 
   
-
-
-<time datetime="2014-03-03T10:35:54-08:00" pubdate data-updated="true">Mar 3<span>rd</span>, 2014</time></div>
-	</header>
-	<div class="entry-content">
-		<p>As a former <a href="http://devbootcamp.com/" target="_blank">Dev Bootcamp</a> (DBC) student, I get a lot of inquiries from recent grads asking for tips on landing a job. I was lucky to get into the DBC early, graduating from the second cohort a year and a half ago, and the job market was quick to pick us up. However, after going through the growing pains of learning how to code in a production environment, I don’t find it too surprising that bootcamp grads now are having a harder time landing jobs.</p>
+  <entry>
+    <title type="html"><![CDATA[The Junior Jump: Life After Coding Bootcamps]]></title>
+    <link href="http://srjrdev.com/blog/2014/03/03/the-junior-jump-life-after-coding-bootcamps/"/>
+    <updated>2014-03-03T10:35:54-08:00</updated>
+    <id>http://srjrdev.com/blog/2014/03/03/the-junior-jump-life-after-coding-bootcamps</id>
+    <content type="html"><![CDATA[<p>As a former <a href="http://devbootcamp.com/" target="_blank">Dev Bootcamp</a> (DBC) student, I get a lot of inquiries from recent grads asking for tips on landing a job. I was lucky to get into the DBC early, graduating from the second cohort a year and a half ago, and the job market was quick to pick us up. However, after going through the growing pains of learning how to code in a production environment, I don’t find it too surprising that bootcamp grads now are having a harder time landing jobs.</p>
 
 
 
@@ -148,41 +92,7 @@
 
 <p>If you’d like to work with Carbon Five to learn some of these real-world metaskills, you can sign up for a Tinderbox Meetup event geared toward improving your post-bootcamp skills <a href="http://www.meetup.com/tinderbox-la">here</a>. Also, if you would like more Junior Developer specific advice, you can find more content at my personal blog, <a href="http://srjrdev.com" title="Senior Junior Dev" target="_blank">Senior Junior Dev</a>.</p>
 
-
-		
-		
-	</div>
-
-</article>
-
-
-</div>
-	<footer id="footer" class="inner">&copy; 2014
-
-    Ken Shimizu
-
-</footer>
-	<script src="/javascripts/slash.js"></script>
-<script src="/javascripts/hyphenator.js"></script>
-
-
-<script type="text/javascript">
-      var disqus_shortname = 'seniorjuniordev';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-
-
-
-</body>
-</html>
+]]></content>
+  </entry>
+  
+</feed>
