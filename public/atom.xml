@@ -4,13 +4,22 @@
   <title><![CDATA[Senior Junior Dev]]></title>
   <link href="http://srjrdev.com/atom.xml" rel="self"/>
   <link href="http://srjrdev.com/"/>
-  <updated>2014-03-03T10:40:20-08:00</updated>
+  <updated>2014-09-16T10:46:14-07:00</updated>
   <id>http://srjrdev.com/</id>
   <author>
     <name><![CDATA[Ken Shimizu]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[UI Testing on Android]]></title>
+    <link href="http://srjrdev.com/blog/2014/09/15/ui-testing-on-android/"/>
+    <updated>2014-09-15T17:55:54-07:00</updated>
+    <id>http://srjrdev.com/blog/2014/09/15/ui-testing-on-android</id>
+    <content type="html"><![CDATA[<p><a href="http://srjrdev.com/android">Go to slides.</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Junior Jump: Life After Coding Bootcamps]]></title>
